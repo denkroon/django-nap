@@ -2,6 +2,10 @@
 Changelog
 =========
 
+-------
+Current
+-------
+
 v0.??.? (????-??-??)
 ====================
 
@@ -10,6 +14,10 @@ Enhancements:
 - Removed backward compatibility shim for JsonResponse, now that we require
   Django 1.7
 - Add a common base class `HttpResponseError` for Status 4xx and 5xx responses.
+
+-------
+History
+-------
 
 v0.14.9 (2015-12-08)
 ====================
